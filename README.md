@@ -61,8 +61,3 @@ Key learnings:
 - Data cleaning is more important than data size
 - Proper validation of dataset uniqueness is required before analysis
 
-## Future Improvements
-- Use a richer dataset with higher number of unique movies
-- Perform visualization using Matplotlib / Seaborn
-- Build Power BI dashboard for insights
-- Apply advanced EDA techniques for trend analysis
